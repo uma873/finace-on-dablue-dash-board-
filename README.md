@@ -2,6 +2,7 @@
 - Hello Everyone,
 - This finance report provides an analysis of financial data using Tableau, a powerful data visualization tool. The report presents key financial metrics, trends, and insights to support informed business decisions. Tableau’s interactive dashboards and visual analytics enable users to explore data efficiently and identify patterns that impact financial performance.I made this Finance Dashboard in Finance Dashboard in Tableau with the Finance Excel Data provided by unified company for hands practical.
 <hr>
+
 ## Problem Statement
 - The goal of this Tableau project is to analyze financial performance across different
 countries, products, and time periods, using key financial metrics such as sales, profit,
